@@ -1,0 +1,17 @@
+D:\Prabhat Srivastava\Zip Files\TaskManagementSystem\TaskManagementSystem.Repository\bin\Debug\net9.0\TaskManagementSystem.Repository.deps.json
+D:\Prabhat Srivastava\Zip Files\TaskManagementSystem\TaskManagementSystem.Repository\bin\Debug\net9.0\TaskManagementSystem.Repository.runtimeconfig.json
+D:\Prabhat Srivastava\Zip Files\TaskManagementSystem\TaskManagementSystem.Repository\bin\Debug\net9.0\TaskManagementSystem.Repository.dll
+D:\Prabhat Srivastava\Zip Files\TaskManagementSystem\TaskManagementSystem.Repository\bin\Debug\net9.0\TaskManagementSystem.Repository.pdb
+D:\Prabhat Srivastava\Zip Files\TaskManagementSystem\TaskManagementSystem.Repository\bin\Debug\net9.0\TaskManagementSystem.Domain.dll
+D:\Prabhat Srivastava\Zip Files\TaskManagementSystem\TaskManagementSystem.Repository\bin\Debug\net9.0\TaskManagementSystem.Domain.pdb
+D:\Prabhat Srivastava\Zip Files\TaskManagementSystem\TaskManagementSystem.Repository\obj\Debug\net9.0\TaskManagementSystem.Repository.csproj.AssemblyReference.cache
+D:\Prabhat Srivastava\Zip Files\TaskManagementSystem\TaskManagementSystem.Repository\obj\Debug\net9.0\TaskManagementSystem.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Prabhat Srivastava\Zip Files\TaskManagementSystem\TaskManagementSystem.Repository\obj\Debug\net9.0\TaskManagementSystem.Repository.AssemblyInfoInputs.cache
+D:\Prabhat Srivastava\Zip Files\TaskManagementSystem\TaskManagementSystem.Repository\obj\Debug\net9.0\TaskManagementSystem.Repository.AssemblyInfo.cs
+D:\Prabhat Srivastava\Zip Files\TaskManagementSystem\TaskManagementSystem.Repository\obj\Debug\net9.0\TaskManagementSystem.Repository.csproj.CoreCompileInputs.cache
+D:\Prabhat Srivastava\Zip Files\TaskManagementSystem\TaskManagementSystem.Repository\obj\Debug\net9.0\TaskMana.37F6EF73.Up2Date
+D:\Prabhat Srivastava\Zip Files\TaskManagementSystem\TaskManagementSystem.Repository\obj\Debug\net9.0\TaskManagementSystem.Repository.dll
+D:\Prabhat Srivastava\Zip Files\TaskManagementSystem\TaskManagementSystem.Repository\obj\Debug\net9.0\refint\TaskManagementSystem.Repository.dll
+D:\Prabhat Srivastava\Zip Files\TaskManagementSystem\TaskManagementSystem.Repository\obj\Debug\net9.0\TaskManagementSystem.Repository.pdb
+D:\Prabhat Srivastava\Zip Files\TaskManagementSystem\TaskManagementSystem.Repository\obj\Debug\net9.0\TaskManagementSystem.Repository.genruntimeconfig.cache
+D:\Prabhat Srivastava\Zip Files\TaskManagementSystem\TaskManagementSystem.Repository\obj\Debug\net9.0\ref\TaskManagementSystem.Repository.dll

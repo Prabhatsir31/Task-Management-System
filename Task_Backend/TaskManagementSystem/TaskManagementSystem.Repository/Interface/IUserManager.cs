@@ -1,0 +1,40 @@
+﻿using Microsoft.AspNetCore.Http;
+using TaskManagementSystem.Domain.DTOs;
+using TaskManagementSystem.Domain.RequestModel;
+using TaskManagementSystem.Domain.ResponseModel;
+
+namespace TaskManagementSystem.Repository.Interface
+{
+    public interface IUserManager
+    {
+        Task<ResultModel> RegisterUserAsync(RegisterUserRequest registerUser);
+
+        Task<AuthenticateResponse> GetUserTokenAsync(int userId);
+
+        Task<RegisterUserRequest> GetRegisteredUserAsync();
+
+        Task<UserTokenDto> AuthenticateAsync(AuthenticateRequest model, string ipAddress);
+
+        Task<UserTokenDto> RefreshTokenAsync(string token, string ipAddress);
+
+        Task<bool> RevokeTokenAsync(string token, string ipAddress);
+
+        Task<ForgotPasswordResponse> ForgotPasswordAsync(ForgotPasswordRequest model, string origin);
+
+        Task<ResultModel> ResetPasswordAsync(ResetPasswordRequest model);
+
+        Task<ResultModel> VerifyEmailAsync(string token);
+
+        Task<ResultModel> ChangePasswordAsync(ChangePasswordRequest changePasswordRequest, string token);
+        Task<ResultModel> ResetUserPasswordByAdminAsync(ChangePasswordRequest changePasswordRequest, string token);
+
+        Task<List<AuthenticateResponse>> GetAllUsersAsync();
+        Task<List<UserResponse>> GetActiveUsersAsync();
+        Task<List<UserResponse>> GetUsersAsyncWithPagination( int skipRow, int rowSize, int currentPage, string searchtext);
+        Task<ResultModel> UpdateUserDeatilAsync(updateUserRequest model);
+        Task<UserTokenDto> GetUserRoleAndAccessAsync(int userId);
+        Task<List<AuthenticateResponse>> GetAllUsersByRollAsync(string rollType);
+        Task<ResultModel> UploadUserImage(IFormFile file, int id);
+        Task<List<UserResponseNew>> GetAllUsersAsyncNew(int skipRow, int rowSize, int currentPage, string searchtext);
+    }
+}
