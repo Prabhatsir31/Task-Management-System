@@ -1,0 +1,9 @@
+D:\Prabhat Srivastava\Zip Files\TaskManagementSystem\TaskManagementSystem.Repository.Tests\bin\Debug\net9.0\.msCoverageSourceRootsMapping_TaskManagementSystem.Repository.Tests
+D:\Prabhat Srivastava\Zip Files\TaskManagementSystem\TaskManagementSystem.Repository.Tests\bin\Debug\net9.0\CoverletSourceRootsMapping_TaskManagementSystem.Repository.Tests
+D:\Prabhat Srivastava\Zip Files\TaskManagementSystem\TaskManagementSystem.Repository.Tests\obj\Debug\net9.0\TaskManagementSystem.Repository.Tests.csproj.AssemblyReference.cache
+D:\Prabhat Srivastava\Zip Files\TaskManagementSystem\TaskManagementSystem.Repository.Tests\obj\Debug\net9.0\TaskManagementSystem.Repository.Tests.GeneratedMSBuildEditorConfig.editorconfig
+D:\Prabhat Srivastava\Zip Files\TaskManagementSystem\TaskManagementSystem.Repository.Tests\obj\Debug\net9.0\TaskManagementSystem.Repository.Tests.gentestingplatformentrypointinputcache.cache
+D:\Prabhat Srivastava\Zip Files\TaskManagementSystem\TaskManagementSystem.Repository.Tests\obj\Debug\net9.0\TaskManagementSystem.Repository.Tests.genautoregisteredextensionsinputcache.cache
+D:\Prabhat Srivastava\Zip Files\TaskManagementSystem\TaskManagementSystem.Repository.Tests\obj\Debug\net9.0\TaskManagementSystem.Repository.Tests.AssemblyInfoInputs.cache
+D:\Prabhat Srivastava\Zip Files\TaskManagementSystem\TaskManagementSystem.Repository.Tests\obj\Debug\net9.0\TaskManagementSystem.Repository.Tests.AssemblyInfo.cs
+D:\Prabhat Srivastava\Zip Files\TaskManagementSystem\TaskManagementSystem.Repository.Tests\obj\Debug\net9.0\TaskManagementSystem.Repository.Tests.csproj.CoreCompileInputs.cache
