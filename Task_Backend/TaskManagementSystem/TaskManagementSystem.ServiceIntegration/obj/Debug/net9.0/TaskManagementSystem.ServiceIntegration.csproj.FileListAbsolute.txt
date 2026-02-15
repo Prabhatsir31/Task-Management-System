@@ -1,0 +1,17 @@
+D:\Prabhat Srivastava\Zip Files\TaskManagementSystem\TaskManagementSystem.ServiceIntegration\bin\Debug\net9.0\TaskManagementSystem.ServiceIntegration.deps.json
+D:\Prabhat Srivastava\Zip Files\TaskManagementSystem\TaskManagementSystem.ServiceIntegration\bin\Debug\net9.0\TaskManagementSystem.ServiceIntegration.runtimeconfig.json
+D:\Prabhat Srivastava\Zip Files\TaskManagementSystem\TaskManagementSystem.ServiceIntegration\bin\Debug\net9.0\TaskManagementSystem.ServiceIntegration.dll
+D:\Prabhat Srivastava\Zip Files\TaskManagementSystem\TaskManagementSystem.ServiceIntegration\bin\Debug\net9.0\TaskManagementSystem.ServiceIntegration.pdb
+D:\Prabhat Srivastava\Zip Files\TaskManagementSystem\TaskManagementSystem.ServiceIntegration\bin\Debug\net9.0\TaskManagementSystem.Domain.dll
+D:\Prabhat Srivastava\Zip Files\TaskManagementSystem\TaskManagementSystem.ServiceIntegration\bin\Debug\net9.0\TaskManagementSystem.Domain.pdb
+D:\Prabhat Srivastava\Zip Files\TaskManagementSystem\TaskManagementSystem.ServiceIntegration\obj\Debug\net9.0\TaskManagementSystem.ServiceIntegration.csproj.AssemblyReference.cache
+D:\Prabhat Srivastava\Zip Files\TaskManagementSystem\TaskManagementSystem.ServiceIntegration\obj\Debug\net9.0\TaskManagementSystem.ServiceIntegration.GeneratedMSBuildEditorConfig.editorconfig
+D:\Prabhat Srivastava\Zip Files\TaskManagementSystem\TaskManagementSystem.ServiceIntegration\obj\Debug\net9.0\TaskManagementSystem.ServiceIntegration.AssemblyInfoInputs.cache
+D:\Prabhat Srivastava\Zip Files\TaskManagementSystem\TaskManagementSystem.ServiceIntegration\obj\Debug\net9.0\TaskManagementSystem.ServiceIntegration.AssemblyInfo.cs
+D:\Prabhat Srivastava\Zip Files\TaskManagementSystem\TaskManagementSystem.ServiceIntegration\obj\Debug\net9.0\TaskManagementSystem.ServiceIntegration.csproj.CoreCompileInputs.cache
+D:\Prabhat Srivastava\Zip Files\TaskManagementSystem\TaskManagementSystem.ServiceIntegration\obj\Debug\net9.0\TaskMana.68AB2F01.Up2Date
+D:\Prabhat Srivastava\Zip Files\TaskManagementSystem\TaskManagementSystem.ServiceIntegration\obj\Debug\net9.0\TaskManagementSystem.ServiceIntegration.dll
+D:\Prabhat Srivastava\Zip Files\TaskManagementSystem\TaskManagementSystem.ServiceIntegration\obj\Debug\net9.0\refint\TaskManagementSystem.ServiceIntegration.dll
+D:\Prabhat Srivastava\Zip Files\TaskManagementSystem\TaskManagementSystem.ServiceIntegration\obj\Debug\net9.0\TaskManagementSystem.ServiceIntegration.pdb
+D:\Prabhat Srivastava\Zip Files\TaskManagementSystem\TaskManagementSystem.ServiceIntegration\obj\Debug\net9.0\TaskManagementSystem.ServiceIntegration.genruntimeconfig.cache
+D:\Prabhat Srivastava\Zip Files\TaskManagementSystem\TaskManagementSystem.ServiceIntegration\obj\Debug\net9.0\ref\TaskManagementSystem.ServiceIntegration.dll
